@@ -5,6 +5,7 @@
 [XXApple/AndroidLibs: Android 开源代码大全](https://github.com/XXApple/AndroidLibs)   
 [litesuits/android-common: Android Common Utils or Helper.](https://github.com/litesuits/android-common)   
 一个涉及USB,UVC,OpenGLES和编解码的好项目：[saki4510t/UVCCamera: library and sample to access to UVC web camera](https://github.com/saki4510t/UVCCamera)    
+虎扑体育第三方开源客户端：[nihaoyalong/zen4android: android client for hupu.com](https://github.com/nihaoyalong/zen4android)   
 ###编解码
 一个完整的播放器项目：[Bilibili/ijkplayer: Android/iOS video player based on FFmpeg n3.0, with MediaCodec, VideoToolbox support.](https://github.com/Bilibili/ijkplayer)    
 google官方编解码和GL使用示例：[google/grafika: Grafika test app](https://github.com/google/grafika)    
@@ -19,6 +20,7 @@ python<计算机视觉编程>的代码实现：[jesolem/PCV: Open source Python 
 德国慕尼黑工业大学CV实验室的SLAM研究小组主页：[vslam](http://vision.in.tum.de/research/vslam)   
 基于深度摄像头的SLAM： [RTAB-Map](http://introlab.github.io/rtabmap/)   
 PTAM主页（我的毕业设计参考项目）:[PTAM](https://ewokrampage.wordpress.com/)  
+PTAM android 移植[ICGJKU/APTAM-GPL: Enhanced Android Port of Oxford's PTAM ](https://github.com/ICGJKU/APTAM-GPL)  
 [tum-vision/lsd_slam: LSD-SLAM](https://github.com/tum-vision/lsd_slam)  
 
 ###算法
