@@ -9,6 +9,7 @@
 一个完整的播放器项目：[Bilibili/ijkplayer: Android/iOS video player based on FFmpeg n3.0, with MediaCodec, VideoToolbox support.](https://github.com/Bilibili/ijkplayer)    
 google官方编解码和GL使用示例：[google/grafika: Grafika test app](https://github.com/google/grafika)    
 ffmpeg 教程：[mpenkov/ffmpeg-tutorial: A set of tutorials that demonstrates how to write a video player based on FFmpeg](https://github.com/mpenkov/ffmpeg-tutorial)    
+leixiaohua的编解码博客文章源码：[leixiaohua1020/leixiaohua1020.github.io](https://github.com/leixiaohua1020/leixiaohua1020.github.io) 
 ###OpenGL
 [learnopengles/Learn-OpenGLES-Tutorials](https://github.com/learnopengles/Learn-OpenGLES-Tutorials)    
 ###CV
@@ -53,6 +54,7 @@ HTTP权威指南
 ###其它
 高级Bash 脚本编程指南.pdf   
 progit-zh.545.epub 
+鸟哥的linux私房菜(第三版).pdf
 
 ##论文
 分享一堆CV方面的论文集合：     
