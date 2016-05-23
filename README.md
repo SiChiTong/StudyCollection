@@ -1,11 +1,13 @@
-# 资料
+##前言
 以下是我个人在毕业离校之际整理的资料集。仅包含个人涉及或比较熟悉的领域。欢迎各位同学补充。（献给科源，适合大一 - 大三师弟师妹们）    
 ##开源项目
 ###Android
 [XXApple/AndroidLibs: Android 开源代码大全](https://github.com/XXApple/AndroidLibs)   
 [litesuits/android-common: Android Common Utils or Helper.](https://github.com/litesuits/android-common)   
 一个涉及USB,UVC,OpenGLES和编解码的好项目：[saki4510t/UVCCamera: library and sample to access to UVC web camera](https://github.com/saki4510t/UVCCamera)    
-虎扑体育第三方开源客户端：[nihaoyalong/zen4android: android client for hupu.com](https://github.com/nihaoyalong/zen4android)   
+Android 开源项目合集[Trinea/android-open-project:](https://github.com/Trinea/android-open-project)   
+虎扑体育第三方开源客户端，一个简单但已经相当流行的app：[nihaoyalong/zen4android](https://github.com/nihaoyalong/zen4android)   
+github客户端 [pockethub/PocketHub: PocketHub Android App](https://github.com/pockethub/PocketHub)  
 ###编解码
 一个完整的播放器项目：[Bilibili/ijkplayer: Android/iOS video player based on FFmpeg n3.0, with MediaCodec, VideoToolbox support.](https://github.com/Bilibili/ijkplayer)    
 google官方编解码和GL使用示例：[google/grafika: Grafika test app](https://github.com/google/grafika)    
@@ -20,7 +22,7 @@ python<计算机视觉编程>的代码实现：[jesolem/PCV: Open source Python 
 德国慕尼黑工业大学CV实验室的SLAM研究小组主页：[vslam](http://vision.in.tum.de/research/vslam)   
 基于深度摄像头的SLAM： [RTAB-Map](http://introlab.github.io/rtabmap/)   
 PTAM主页（我的毕业设计参考项目）:[PTAM](https://ewokrampage.wordpress.com/)  
-PTAM android 移植[ICGJKU/APTAM-GPL: Enhanced Android Port of Oxford's PTAM ](https://github.com/ICGJKU/APTAM-GPL)  
+[PTAM android 移植 ](https://github.com/ICGJKU/APTAM-GPL)  
 [tum-vision/lsd_slam: LSD-SLAM](https://github.com/tum-vision/lsd_slam)  
 
 ###算法
@@ -30,7 +32,7 @@ leetcode答案的各种实现：[illuz/leetcode: (229 / 280)中文|English Solut
 ###硬件
 开源小四轴：[omwdunkley/crazyflieROS: A GUI for controlling the Crazyflie with ROS   input/output](https://github.com/omwdunkley/crazyflieROS)   
 我们的智能家居作品，需配合实验室的博创6410和zigbee模块使用：[GerrieWell/UppSmartHome_C_Server:](https://github.com/GerrieWell/UppSmartHome_C_Server)   
-同一个智能家居系统的客户端：[GerrieWell/UppSmartHome_android: 2014年参加博创杯嵌入式大赛的参赛作品android客户端](https://github.com/GerrieWell/UppSmartHome_android)     
+同一个智能家居系统的客户端：[GerrieWell/UppSmartHome_android](https://github.com/GerrieWell/UppSmartHome_android)     
 ##书单
 以下是我(Gerrie)看过并推荐的书单。按推荐力度排序。  
 **稍后把我有的pdf epub上传。**  
@@ -43,11 +45,14 @@ opengl-tutorials.epub 线上教程：[主页](http://www.opengl-tutorial.org/cn/
 GPGPU编程技术  从GLSL、CUDA到OpenCL_12811951.pdf   
 ###C++
 深入探索C++对象模型.pdf   
-HighQualityC++.pdf   
+C++编程思想.pdf   
 More.Effective.C++中文版.pdf  
+EffectiveSTL.pdf   
+C:
+Unix环境高级编程_文字书签版.pdf
 ###网络
-Wireshark网络分析就这么简单 (信息安全技术丛书).epub   
 HTTP权威指南    
+Wireshark网络分析就这么简单 (信息安全技术丛书).epub   
 ###python
 学python看这个人的博客就对了：[Python教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)   
 ###CV
