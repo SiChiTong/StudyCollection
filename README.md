@@ -49,7 +49,8 @@ C++编程思想.pdf
 More.Effective.C++中文版.pdf  
 EffectiveSTL.pdf   
 C:
-Unix环境高级编程_文字书签版.pdf
+Unix环境高级编程_文字书签版.pdf  
+C语言深度解剖.pdf   
 ###网络
 HTTP权威指南    
 Wireshark网络分析就这么简单 (信息安全技术丛书).epub   
@@ -61,7 +62,7 @@ Wireshark网络分析就这么简单 (信息安全技术丛书).epub
 ###其它
 高级Bash 脚本编程指南.pdf   
 progit-zh.545.epub 
-鸟哥的linux私房菜(第三版).pdf
+鸟哥的linux私房菜(第三版).pdf   
 
 ##论文
 分享一堆CV方面的论文集合：     
