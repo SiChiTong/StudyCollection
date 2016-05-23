@@ -1,6 +1,5 @@
-# StudyCollecction
-# 资料（献给科源，适合大一 - 大三师弟师妹们）
-以下是我个人在毕业离校之际整理的资料集。仅包含个人涉及或比较熟悉的领域。欢迎各位同学补充。    
+# 资料
+以下是我个人在毕业离校之际整理的资料集。仅包含个人涉及或比较熟悉的领域。欢迎各位同学补充。（献给科源，适合大一 - 大三师弟师妹们）    
 ##开源项目
 ###Android
 [XXApple/AndroidLibs: Android 开源代码大全](https://github.com/XXApple/AndroidLibs)   
@@ -57,8 +56,9 @@ progit-zh.545.epub
 
 ##论文
 分享一堆CV方面的论文集合：     
-[baidupan password: pcuq](http://pan.baidu.com/s/1i4UWd7n)
-目录一览：
+[baidupan password: pcuq](http://pan.baidu.com/s/1i4UWd7n)      
+这些就不是都看过了，但是用支持标签的文件系统解压会看到有红色标签的论文，这些论文是和PTAM相关的。   
+全部文件目录一览：
 ```
 2015ISMAR_ondruska.pdf
 2D or not 2D Bridging the gap between tracking and structure from motion.pdf
