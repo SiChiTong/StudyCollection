@@ -33,6 +33,10 @@ leetcode答案的各种实现：[illuz/leetcode: (229 / 280)中文|English Solut
 开源小四轴：[omwdunkley/crazyflieROS: A GUI for controlling the Crazyflie with ROS   input/output](https://github.com/omwdunkley/crazyflieROS)   
 我们的智能家居作品，需配合实验室的博创6410和zigbee模块使用：[GerrieWell/UppSmartHome_C_Server:](https://github.com/GerrieWell/UppSmartHome_C_Server)   
 同一个智能家居系统的客户端：[GerrieWell/UppSmartHome_android](https://github.com/GerrieWell/UppSmartHome_android)     
+
+###脚本
+一个生活中的自动化脚本集合 star 2w+[hacker-scripts](https://github.com/narkoz/hacker-scripts)
+
 ##书单
 以下是我(Gerrie)看过并推荐的书单。按推荐力度排序。  
 **稍后把我有的pdf epub上传。**  
